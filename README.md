@@ -1,4 +1,4 @@
-#BookStore-Web-App
+# BookStore-Web-App
 A full-stack bookstore web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) and Vite for optimized frontend performance. The app allows users to securely sign up, browse a catalog of over 1,000 books, and interact with a clean, responsive UI.
 ## Owner Information
 
